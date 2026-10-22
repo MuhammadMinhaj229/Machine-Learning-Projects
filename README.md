@@ -8,7 +8,7 @@ A curated collection of end-to-end machine learning implementations exploring ex
 
 ---
 
-## 📂 Projects Included
+## Projects Included
 
 ### 1. Rock vs. Mine Sonar Signal Classification (`Project-1/`)
 - **Objective:** Discriminate between sonar signals bounced off metal cylinders (mines) vs. rough rocks using acoustic frequency patterns.
@@ -26,7 +26,7 @@ A curated collection of end-to-end machine learning implementations exploring ex
 
 ---
 
-## 💻 How to Run Locally
+## How to Run Locally
 
 ```bash
 git clone https://github.com/MuhammadMinhaj229/Machine-Learning-Projects.git
@@ -41,5 +41,5 @@ jupyter notebook
 
 ---
 
-## 👤 Author
+## Author
 **Mohammed Minhaj Mahmood** ([@MuhammadMinhaj229](https://github.com/MuhammadMinhaj229)).
